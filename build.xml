@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="PasteleriaMiCecy" default="default" basedir=".">
+    <description>Builds, tests, and runs the project PasteleriaMiCecy.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
